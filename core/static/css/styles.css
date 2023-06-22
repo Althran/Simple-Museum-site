@@ -10843,3 +10843,8 @@ textarea.form-control-lg {
      top: 0;
      position: absolute;
 }
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
